@@ -207,8 +207,9 @@ body {
     content: 'View';
     color: #23b38a;
     position: absolute;
-    top: 40%;
-    left: 40%;
+    bottom: 50%;
+    right: 50%;
+    transform: translate(50%, 50%);
     opacity: 0;
     border-radius: 8px;
     font-weight: bold;
