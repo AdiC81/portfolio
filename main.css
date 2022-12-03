@@ -66,6 +66,10 @@ body {
         width: 75%;
         height: 80%;
     }
+
+    .project .view::after {
+        opacity: 1;
+    }
 }
 
 .header {
