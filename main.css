@@ -101,7 +101,7 @@ body {
 }
 
 .navbar a:hover {
-    border-bottom: none;
+    border-bottom-color: transparent;
 }
 
 .navbar a:active {
@@ -112,7 +112,7 @@ body {
     color: #31f5bc;
     border-bottom: dotted 1px;
     text-decoration: none;
-    height: 35px;
+    min-height: 35px;
     transition: transform .2s;
 }
 
